@@ -1,0 +1,40 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "name": "Muhammad Surya",
+      "email": "syahruli@gmail.com"
+    }
+  ],
+  "balance": [
+    {
+      "id": 1,
+      "balance": 5000,
+      "income": 2500,
+      "expenses": 1000
+    }
+  ],
+  "transaction": [
+    {
+      "id": 1,
+      "cname": "Jhon doe",
+      "cemail": "jhon@gmail.com",
+      "iname": "Cash Withdraw",
+      "iamount": "USD",
+      "money": "700"
+    },
+    {
+      "id": 2,
+      "cname": "Mr Lorem",
+      "cemail": "lorem@gmail.com",
+      "iname": "Landing Page project",
+      "iamount": "USD",
+      "money": "1800"
+    }
+  ],
+  "card": {
+    "name": "Muhammad Surya Syahruli",
+    "nocard": "0918 8124 0042 8129",
+    "cvv": 182
+  }
+}
